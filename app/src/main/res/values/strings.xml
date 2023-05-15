@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="filmku">FilmKu</string>
+    <string name="now_showing">Now Showing</string>
+    <string name="see_more">See more</string>
+    <string name="see_more1">See more</string>
+    <string name="spiderman_no_way_home">Spiderman No Way Home</string>
+    <string name="eternals">Eternals</string>
+    <string name="popular">Popular</string>
+    <string name="venom_let_there_be_carnage">Venom Let There Be Carnage</string>
+</resources>
